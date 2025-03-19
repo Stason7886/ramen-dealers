@@ -41,6 +41,8 @@ body {
     line-height: 22px;
     background: #ffffff url("/img/fon1.jpg");
     /* font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif */
+
+    flex-direction: column;
 }
 
 .page-title1{
