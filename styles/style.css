@@ -120,8 +120,8 @@ body {
 }
 
 .footer-contacts {
-    display:flex; /*flex box в одну линию*/
-    justify-content: center; /*центрируем содержимое*/
+    display: flex; /*flex box в одну линию*/
+    justify-content: space-around; /*центрируем содержимое*/
 }
 
 .footer-contacts p {
