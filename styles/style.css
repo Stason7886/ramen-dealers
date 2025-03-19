@@ -39,7 +39,7 @@ body {
     padding: 0 150px;
     font-size: 14px;
     line-height: 22px;
-    background: #ffffff url("/img/fon1.jpg");
+    background: #ffffff url("../img/fon1.jpg");
     /* font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif */
 
     flex-direction: column;
