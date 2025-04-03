@@ -1,7 +1,8 @@
-.body {
+/* .body {
+
     margin: 0;
     padding: 0;
-}
+} */
 
 .products {
     color:#ffffff;
@@ -46,8 +47,6 @@ body {
     line-height: 22px;
     background: #ffffff url("../img/fon1.jpg");
     /* font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif */
-
-    flex-direction: column;
 }
 
 .page-title1{
@@ -65,9 +64,9 @@ body {
     /* font-family: "Verdana", sans-serif; */
 }
 
-.page-title3 {
+/* .page-title3 {
     display: flex;
-}
+} */
 
 .container {
     display: flex;
