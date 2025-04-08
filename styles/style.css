@@ -96,7 +96,7 @@ body {
     font-size: 20px;
     text-transform: uppercase;
     color:rgba(245, 17, 9, 0.805);
-    text-decoration:underline;
+    text-decoration: overline;
 }
 
 .item_li {
