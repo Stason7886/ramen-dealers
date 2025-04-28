@@ -11,6 +11,12 @@
     background-color: rgb(221, 43, 43);
 }
 
+.product {
+    list-style-type: none;
+    border-bottom: 2px solid;
+    padding-bottom: 5px;
+}
+
 * {
     font-family: "Oswald", sans-serif;
     font-size: 20px;
@@ -216,12 +222,3 @@ body {
         flex: 1 1 100%;
     }
 }
-
-
-/* @media (max-width: 375px) {
-    .page-title1 {
-        font-size: 14px;
-        flex: 1 1 100%;
-    }
-} */
-
